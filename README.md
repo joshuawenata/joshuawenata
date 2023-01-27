@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, Joshua Here!👋
+
+🌱 Focus learning: internet of things, mobile application, and websites  
+📫 Linkedin: www.linkedin.com/in/joshuawenata
 
 <!--
 **joshuawenata/joshuawenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
