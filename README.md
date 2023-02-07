@@ -1,7 +1,8 @@
 ### Hello, Joshua Here!👋
 
 🌱 Focus learning: internet of things, mobile application, and websites  
-<a href="www.linkedin.com/in/joshuawenata">
+
+<a href="https://www.linkedin.com/in/joshuawenata/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
