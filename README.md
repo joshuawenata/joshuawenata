@@ -1,7 +1,9 @@
 ### Hello, Joshua Here!👋
 
 🌱 Focus learning: internet of things, mobile application, and websites  
-📫 Linkedin: www.linkedin.com/in/joshuawenata
+<a href="www.linkedin.com/in/joshuawenata">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 <!--
 **joshuawenata/joshuawenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
