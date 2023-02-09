@@ -1,6 +1,7 @@
 ### Hello, Joshua Here!👋
 
-🌱 Focus learning: internet of things, mobile application, and websites  
+🌱 Focus learning: internet of things, mobile application, and websites
+🔭 I’m currently working on: Bina Nusantara University as Part Time assistant
 
 <a href="https://www.linkedin.com/in/joshuawenata/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
