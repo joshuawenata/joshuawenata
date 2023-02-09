@@ -3,11 +3,15 @@
 🌱 Focus learning: internet of things, mobile application, and websites
 <br>
 🔭 I’m currently working on: Bina Nusantara University as Part Time assistant
+<br>
 
+### 📫 How to contact me:
 <a href="https://www.linkedin.com/in/joshuawenata/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="LinkedIn Badge"/>
 </a>
-
+<a href="https://www.instagram.com/joshuawenata/">
+    <img src="https://www.pngkey.com/png/full/107-1077176_redes-sociais-em-png-instagram-logo-button-png.png" alt="Instagram Badge"/>
+</a>
 <!--
 **joshuawenata/joshuawenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
