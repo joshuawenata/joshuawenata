@@ -5,13 +5,14 @@
 🔭 I’m currently working on: Bina Nusantara University as Part Time assistant
 <br>
 
-### 📫 How to contact me:
+### 📫 Let's Connect:
 <a href="https://www.linkedin.com/in/joshuawenata/">
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" width=50 length=50 alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.instagram.com/joshuawenata/">
     <img src="https://www.pngkey.com/png/full/107-1077176_redes-sociais-em-png-instagram-logo-button-png.png" width=50 length=50 alt="Instagram Badge"/>
 </a>
+
 <!--
 **joshuawenata/joshuawenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
