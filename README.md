@@ -4,8 +4,9 @@
 <br>
 🔭 I’m currently working on: Bina Nusantara University as Part Time assistant
 <br>
+📫 Business inquire: joshuawenata@gmail.com
 
-### 📫 Let's Connect:
+### 🤝 Let's Connect:
 <a href="https://www.linkedin.com/in/joshuawenata/">
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" width=50 length=50 alt="LinkedIn Badge"/>
 </a>
