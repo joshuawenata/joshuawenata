@@ -6,7 +6,7 @@
 <br>
 📫 Business inquire: joshuawenata@gmail.com
 <br>
-<a href="tinyurl.com/joshuawenata">
+<a href="https://www.tinyurl.com/joshuawenata">
     ✌️ My Personal Portfolio Websites 🚀
 </a>
 
