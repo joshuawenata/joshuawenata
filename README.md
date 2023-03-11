@@ -5,6 +5,9 @@
 🔭 I’m currently working on: Bina Nusantara University as Part Time assistant
 <br>
 📫 Business inquire: joshuawenata@gmail.com
+<a href="tinyurl.com/joshuawenata">
+    ✌️ My Personal Portfolio Websites 🚀
+</a>
 
 ### 🤝 Let's Connect:
 <a href="https://www.linkedin.com/in/joshuawenata/">
