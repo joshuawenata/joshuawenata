@@ -2,7 +2,7 @@
 
 🌱 Focus learning: internet of things, mobile application, and websites
 <br>
-🔭 I’m currently working on: Bina Nusantara University as Junior Laboratory Assistant
+🔭 I’m currently working on:  Apple Developer Academy
 <br>
 📫 Business inquire: joshuawenata@gmail.com
 <br>
