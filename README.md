@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://joshuawenata.vercel.app" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/-Personal%20Website-05122A?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Personal Website" style="background: linear-gradient(to right, #05122A, #ffffff); color: #ffffff;">
+    <img src="https://img.shields.io/badge/-Personal%20Website-FFD700?style=for-the-badge&logo=about-dot-me&logoColor=black" alt="Personal Website">
 </a>
 
 ## 📈 GitHub Stats
