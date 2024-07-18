@@ -1,6 +1,6 @@
 ### Hello, Joshua Here!👋
 
-🌱 Focus learning: internet of things, mobile application, and websites
+🌱 Focus learning: Software Engineering
 <br>
 🔭 I’m currently working on:  Apple Developer Academy
 <br>
