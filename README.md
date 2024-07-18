@@ -10,13 +10,13 @@
 ## 🤝 Connect with Me
 <a href="https://linkedin.com/in/joshuawenata" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/joshuawenata" target="_blank" style="margin-left: 10px;">
+</a>
+<a href="https://instagram.com/joshuawenata" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://joshuawenata.vercel.app" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/-Personal%20Website-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Personal Website">
-  </a>
+</a>
+<a href="https://joshuawenata.vercel.app" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/-Personal%20Website-05122A?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Personal Website" style="background: linear-gradient(to right, #05122A, #ffffff); color: #ffffff;">
+</a>
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuawenata&show_icons=true&hide=issues&theme=algolia)
