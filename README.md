@@ -21,6 +21,9 @@
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuawenata&show_icons=true&hide=issues&theme=radical)
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 <!--
 **joshuawenata/joshuawenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
