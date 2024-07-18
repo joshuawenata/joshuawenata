@@ -24,5 +24,3 @@
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuawenata&layout=compact&theme=algolia)
 
-## 🚀 Visitor Counter!
-[](https://komarev.com/ghpvc/?username=joshuawenata&style=for-the-badge)
