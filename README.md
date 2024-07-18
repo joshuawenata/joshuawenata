@@ -18,6 +18,9 @@
     <img src="https://www.pngkey.com/png/full/107-1077176_redes-sociais-em-png-instagram-logo-button-png.png" width=50 length=50 alt="Instagram Badge"/>
 </a>
 
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuawenata&show_icons=true&hide=issues&theme=radical)
+
 <!--
 **joshuawenata/joshuawenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
