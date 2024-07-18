@@ -24,8 +24,5 @@
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuawenata&layout=compact&theme=algolia)
 
-## 🚀 Visitor Counter
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=joshuawenata.joshuawenata)
-
-## ⏱️ WakaTime Week Stats
-![WakaTime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshuawenata&layout=compact)
+## 🚀 Visitor Counter!
+[](https://komarev.com/ghpvc/?username=joshuawenata&color=006fdd&style=for-the-badge)
