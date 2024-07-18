@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://joshuawenata.vercel.app" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/-Personal%20Website-1DA1F2?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Personal Website">
+    <img src="https://img.shields.io/badge/-Personal%20Website-d0edff?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Personal Website">
 </a>
 
 ## 📈 GitHub Stats
@@ -28,4 +28,4 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=joshuawenata.joshuawenata)
 
 ## ⏱️ WakaTime Week Stats
-![WakaTime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshuawenata)
+![WakaTime Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=joshuawenata&layout=compact)
